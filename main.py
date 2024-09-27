@@ -3,8 +3,7 @@ import os
 import numpy as np
 import streamlit as st
 
-# Print the current working directory
-print("Current working directory:", os.getcwd())
+
 
 # Load the overlay image
 overlay_image = cv2.imread('E:/PROJECT/PYTHON/AR/IOCL.jpg', cv2.IMREAD_UNCHANGED)
