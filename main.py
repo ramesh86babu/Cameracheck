@@ -6,7 +6,7 @@ import streamlit as st
 
 
 # Load the overlay image
-overlay_image = cv2.imread('E:/PROJECT/PYTHON/AR/IOCL.jpg', cv2.IMREAD_UNCHANGED)
+overlay_image = cv2.imread('IOCL.jpg', cv2.IMREAD_UNCHANGED)
 
 # Check if the overlay image was loaded successfully
 if overlay_image is None:
