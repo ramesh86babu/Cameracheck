@@ -1,5 +1,6 @@
 numpy
-pip install opencv-python
+opencv-contrib-python-headless
+streamlit_webrtc==0.47.0
 streamlit
 
 
